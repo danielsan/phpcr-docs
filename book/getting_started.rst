@@ -1,4 +1,4 @@
-Getting Stated
+Getting Started
 ==============
 
 This aims to provide a rounded general reference to PHPCR. You will mostly see
